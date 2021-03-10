@@ -5,3 +5,4 @@ import "./menu-toggler";
 import "./modal";
 
 import "./anchor-link-smooth";
+import "./carousel";
